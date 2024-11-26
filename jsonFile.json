@@ -1,0 +1,30 @@
+[
+    {
+        "name": "seta",
+        "weight": "50",
+        "height": "167",
+        "birthday": "2024-11-15",
+        "time": "22:25"
+    },
+    {
+        "name": "lili",
+        "weight": "50",
+        "height": "167",
+        "birthday": "2024-11-15",
+        "time": "22:25"
+    },
+    {
+        "name": "emi",
+        "weight": "50",
+        "height": "167",
+        "birthday": "2024-11-15",
+        "time": "22:25"
+    },
+    {
+        "name": "shosho",
+        "weight": "50",
+        "height": "167",
+        "birthday": "2024-11-15",
+        "time": "22:25"
+    }
+]
